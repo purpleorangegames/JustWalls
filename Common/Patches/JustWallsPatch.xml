@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Plasteel"]/stuffProps/color</xpath>
+        <value>
+			<color>(139,176,171)</color>
+        </value>
+    </Operation>
+	
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Jade"]/stuffProps/color</xpath>
+        <value>
+			<color>(117,150,77)</color>
+        </value>
+    </Operation>
+	
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Silver"]/stuffProps/appearance</xpath>
+        <value>
+			<appearance>Shiny</appearance>
+        </value>
+    </Operation>
+	
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Silver"]/stuffProps/color</xpath>
+        <value>
+			<color>(211,217,217)</color>
+        </value>
+    </Operation>
+	
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gold"]/stuffProps/appearance</xpath>
+        <value>
+			<appearance>Shiny</appearance>
+        </value>
+    </Operation>
+	
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gold"]/stuffProps/color</xpath>
+        <value>
+			<color>(229,175,25)</color>
+        </value>
+    </Operation>
+	
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Uranium"]/stuffProps/color</xpath>
+        <value>
+			<color>(70,70,70)</color>
+        </value>
+    </Operation>
+	
+</Patch>

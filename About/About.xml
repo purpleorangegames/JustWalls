@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>JustWalls</name>
+  <author>tiagocc0</author>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <modIconPath IgnoreIfNoMatchingField="True">UI/JustWallsIcon</modIconPath>
+  <packageId>tiagocc0.JustWalls</packageId>
+  <loadAfter></loadAfter>
+  <url></url>
+
+  <description>
+Retexture for walls.
+  </description>
+</ModMetaData>
