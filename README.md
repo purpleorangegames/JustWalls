@@ -18,7 +18,7 @@
 
 Retexture for walls, changed type of Gold, Silver to Shiny (a new type this mods creates) and a Metal texture atlas so Steel, Plasteel and Uranium won't use the Smooth texture so only Jade uses it now.
 
-The color of materials like Gold, Silver, Jade and Uranium were tweaked and because of that all items made of those items will use the new color, I set two screenshots to show the difference.
+The color of materials like Gold, Silver, Jade and Uranium were tweaked and because of that all items made of those items will use the new color.
 
 This mod will replace the current vanilla textures for walls.
 
