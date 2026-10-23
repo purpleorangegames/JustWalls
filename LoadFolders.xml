@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
   <!-- same files for every version -->
-  <v1.7>
-    <li>Common</li>
-  </v1.7>
-  <v1.6>
-    <li>Common</li>
-  </v1.6>
-  <v1.5>
-    <li>Common</li>
-  </v1.5>
   <v1.4>
     <li>Common</li>
   </v1.4>
+  <v1.5>
+    <li>Common</li>
+  </v1.5>
+  <v1.6>
+    <li>Common</li>
+  </v1.6>
+  <v1.7>
+    <li>Common</li>
+  </v1.7>
 </loadFolders>
