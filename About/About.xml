@@ -1,18 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>JustWalls</name>
   <author>tiagocc0</author>
+  <packageId>tiagocc0.JustWalls</packageId>
+  <modVersion>2.0.0</modVersion>
+  <url>https://github.com/purpleorangegames/JustWalls</url>
+  <modIconPath IgnoreIfNoMatchingField="True">UI/JustWallsIcon</modIconPath>
   <supportedVersions>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
-  <modIconPath IgnoreIfNoMatchingField="True">UI/JustWallsIcon</modIconPath>
-  <packageId>tiagocc0.JustWalls</packageId>
-  <loadAfter></loadAfter>
-  <url></url>
+  <description>Retexture for walls, changed type of Gold, Silver to Shiny (a new type this mods creates) and a Metal texture atlas so Steel, Plasteel and Uranium won't use the Smooth texture so only Jade uses it now.
 
-  <description>
-Retexture for walls.
-  </description>
+The color of materials like Gold, Silver, Jade and Uranium were tweaked and because of that all items made of those items will use the new color.
+
+This mod will replace the current vanilla textures for walls.
+
+If you want floor textures: https://steamcommunity.com/workshop/filedetails/?id=3193619828
+
+If you want just the wood floor texture: https://steamcommunity.com/sharedfiles/filedetails/?id=3189695842
+
+If you want just the stone tile texture: https://steamcommunity.com/sharedfiles/filedetails/?id=3189952629
+
+If changing color or appearance of materials causes any bug on other mods, let me know. Thank you.
+
+Non Steam version: https://github.com/purpleorangegames/JustWalls
+
+AI was used to help code/fix issues</description>
 </ModMetaData>
